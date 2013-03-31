@@ -6,7 +6,7 @@ import javax.swing._
 
 import org.apache.jmeter.processor.gui.{AbstractPostProcessorGui}
 import org.apache.jmeter.testelement.{TestElement}
-import org.apache.jorphan.gui.JLabeledTextField;
+import org.apache.jorphan.gui.{JLabeledTextField}
 
 import md.scala.jmeter.extractor.{DrupalFormExtractor}
 
