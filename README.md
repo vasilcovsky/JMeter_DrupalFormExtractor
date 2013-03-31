@@ -21,7 +21,7 @@ The Drupal Form Extractor allows the user to extract hidden Drupal form fields: 
 -   FORM_TOKEN
 
 **Control Panel**
-https://raw.github.com/vasilcovsky/JMeter_DrupalFormExtractor/master/media/jmeter-drupal-form-extractor.png
+![JMeter Drupal Form Extractor Control Pagel ](https://raw.github.com/vasilcovsky/JMeter_DrupalFormExtractor/master/media/jmeter-drupal-form-extractor.png)
 
 
 <table>
@@ -37,12 +37,12 @@ https://raw.github.com/vasilcovsky/JMeter_DrupalFormExtractor/master/media/jmete
   </tr>
   <tr>
 	<td>Form ID</td>
-	<td>The ID of tag <form> which contains required fields. This value is required if several forms exist on the page.</td>
+	<td>The ID of tag &lt;form&gt; which contains required fields. This value is required if several forms exist on the page.</td>
 	<td>If page contains more two or more forms.</td>
   </tr>
   <tr>
 	<td>Variable Prefix</td>
-	<td>Unique prefix for variables: *FORM_ID*, *FORM_BUILD_ID*, *FORM_TOKEN*. Variable with prefix looks like *PREFIX*_FORM_ID.</td>
+	<td>Unique prefix for variables: <em>FORM_ID</em>, <em>FORM_BUILD_ID</em>, <em>FORM_TOKEN</em>. Variable with prefix looks like <em>PREFIX</em>_FORM_ID.</td>
 	<td>No</td>
   </tr>
 </table>
