@@ -38,7 +38,7 @@ The Drupal Form Extractor allows the user to extract hidden Drupal form fields: 
   <tr>
 	<td>Form ID</td>
 	<td>The ID of tag &lt;form&gt; which contains required fields. This value is required if several forms exist on the page.</td>
-	<td>If page contains more two or more forms.</td>
+	<td>If page contains two or more forms.</td>
   </tr>
   <tr>
 	<td>Variable Prefix</td>
