@@ -49,7 +49,7 @@ class DrupalFormExtractor extends AbstractTestElement with PostProcessor {
       vars.put(e._2, value)
     }
 
-	}
+  }
 
   def extractValueAttr(selector: String, inputString: String): Option[String] = {
     val matches = new scala.collection.mutable.ListBuffer[String]
